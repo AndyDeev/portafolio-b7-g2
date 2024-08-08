@@ -12,7 +12,7 @@ selector {
     justify-content: start;
     align-items: center;
 
-    background-image: url("assets/fondo.png");
+    background-image: url("assets/F3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -40,6 +40,10 @@ selector {
     background-image: url('portafolio.png');
 }
 
+#proyecto-4 {
+    background-image: url('work.jpg');
+}
+
 .text-shadow-1 {
     text-shadow: 1px -1px 8px rgba(0, 0, 0, 1);
 }
@@ -50,4 +54,8 @@ selector {
 
 .text-brand {
     color: blueviolet;
+}
+#testimonios {
+    background-size: auto;
+    background-image: url("assets/T1.jpg");
 }
